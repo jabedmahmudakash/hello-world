@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hlw github.
+
+I an jabed mahmud akash from North South University.
